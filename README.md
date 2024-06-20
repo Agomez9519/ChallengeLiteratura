@@ -14,4 +14,3 @@ Challenge del curso Alura Backend Java usando la api de libros guntendex api
 
 Created By: El cucho
 
-# ChallengeLiteratura
